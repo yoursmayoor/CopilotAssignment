@@ -1,0 +1,187 @@
+{
+  "articles": [
+    {
+      "articleId": "jh12apkf",
+      "published": "2024-12-24 13:45",
+      "author": {
+        "authorId": "fj95hafu",
+        "authorImage": "https://picsum.photos/id/36/200/300",
+        "authorName": "Anonymous01"
+      },
+      "category": {
+        "categoryId": "cyb7exlo",
+        "categoryName": "Technology"
+      },
+      "tags": ["technology", "Gen AI", "Copilot"],
+      "title": "GitHub Copilot - About, Features and Use Cases",
+      "Subtitle": "quantifying GitHub Copilot\u2019s impact on developer productivity and happiness",
+      "hero": "https://picsum.photos/id/1/200/300",
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "q712xm8h",
+      "published": "2024-12-24 14:45",
+      "author": {
+        "authorId": "h157lzY2",
+        "authorImage": "https://picsum.photos/id/24/200/300",
+        "authorName": "Anonymous007"
+      },
+      "category": {
+        "categoryId": "v6y92528",
+        "categoryName": "Science"
+      },
+      "tags": ["science", "research", "discovery"],
+      "title": "The Rise of Gen AI in Software Development",
+      "Subtitle": "how AI tools are transforming software engineering workflows",
+      "hero": "https://picsum.photos/id/2/200/300",
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "jwfsts0b",
+      "published": "2024-12-24 15:45",
+      "author": {
+        "authorId": "h157lzY2",
+        "authorImage": "https://picsum.photos/id/24/200/300",
+        "authorName": "Anonymous007"
+      },
+      "category": {
+        "categoryId": "52d94i9c",
+        "categoryName": "Health"
+      },
+      "tags": ["health", "wellness", "medicine"],
+      "title": "Quantum Computing Explained for Beginners",
+      "Subtitle": "making quantum mechanics accessible through computation",
+      "hero": "https://picsum.photos/id/3/200/300",
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "uegf9j7n",
+      "published": "2024-12-24 16:45",
+      "author": {
+        "authorId": "ilnptymu",
+        "authorImage": "https://picsum.photos/id/23/200/300",
+        "authorName": "Anonymous003"
+      },
+      "category": {
+        "categoryId": "vgilk7l1",
+        "categoryName": "Finance"
+      },
+      "tags": ["finance", "investment", "crypto"],
+      "title": "10 Ways AI is Revolutionizing Healthcare",
+      "Subtitle": "AI-assisted diagnostics and treatments",
+      "hero": "https://picsum.photos/id/4/200/300",
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "pykthwcp",
+      "published": "2024-12-24 17:45",
+      "author": {
+        "authorId": "9yiyfqhl",
+        "authorImage": "https://picsum.photos/id/43/200/300",
+        "authorName": "Anonymous004"
+      },
+      "category": {
+        "categoryId": "o9dcb56f",
+        "categoryName": "Education"
+      },
+      "tags": ["education", "learning", "edtech"],
+      "title": "Understanding Blockchain Beyond Cryptocurrency",
+      "Subtitle": "exploring real-world blockchain applications",
+      "hero": "https://picsum.photos/id/5/200/300",
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "akpoil1i",
+      "published": "2024-12-24 18:45",
+      "author": {
+        "authorId": "h157lzY2",
+        "authorImage": "https://picsum.photos/id/24/200/300",
+        "authorName": "Anonymous007"
+      },
+      "category": {
+        "categoryId": "0kottt0b",
+        "categoryName": "Technology"
+      },
+      "tags": ["technology", "Gen AI", "Copilot"],
+      "title": "The Impact of EdTech on Traditional Classrooms",
+      "Subtitle": "online platforms changing the face of education",
+      "hero": "https://picsum.photos/id/6/200/300",
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "ubj58vdi",
+      "published": "2024-12-24 19:45",
+      "author": {
+        "authorId": "h157lzY2",
+        "authorImage": "https://picsum.photos/id/24/200/300",
+        "authorName": "Anonymous007"
+      },
+      "category": {
+        "categoryId": "mrrvadrk",
+        "categoryName": "Science"
+      },
+      "tags": ["science", "research", "discovery"],
+      "title": "Cybersecurity Trends in 2025",
+      "Subtitle": "staying ahead of cyber threats with AI",
+      "hero": "https://picsum.photos/id/7/200/300",
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "sh4wwxjr",
+      "published": "2024-12-24 20:45",
+      "author": {
+        "authorId": "9yiyfqhl",
+        "authorImage": "https://picsum.photos/id/43/200/300",
+        "authorName": "Anonymous004"
+      },
+      "category": {
+        "categoryId": "8f83mq9x",
+        "categoryName": "Health"
+      },
+      "tags": ["health", "wellness", "medicine"],
+      "title": "FinTech: Merging Finance and Technology",
+      "Subtitle": "how startups are disrupting traditional banking",
+      "hero": "https://picsum.photos/id/8/200/300",
+
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "u41hs4ah",
+      "published": "2024-12-24 21:45",
+      "author": {
+        "authorId": "9vshyaah",
+        "authorImage": "https://picsum.photos/id/57/200/300",
+        "authorName": "Anonymous002"
+      },
+      "category": {
+        "categoryId": "0lr6iyvq",
+        "categoryName": "Finance"
+      },
+      "tags": ["finance", "investment", "crypto"],
+      "title": "CRISPR and the Future of Genetic Engineering",
+      "Subtitle": "genetic tools that may cure inherited diseases",
+      "hero": "https://picsum.photos/id/9/200/300",
+
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    },
+    {
+      "articleId": "2v8yqfnv",
+      "published": "2024-12-24 22:45",
+      "author": {
+        "authorId": "fj95hafu",
+        "authorImage": "https://picsum.photos/id/36/200/300",
+        "authorName": "Anonymous01"
+      },
+      "category": {
+        "categoryId": "cip6ya51",
+        "categoryName": "Education"
+      },
+      "tags": ["education",  "edtech"],
+      "title": "Machine Learning in Astronomy",
+      "Subtitle": "AI finds stars, galaxies, and black holes",
+      "hero": "https://picsum.photos/id/10/200/300",
+
+      "description": "<p>This article explores the topic in depth using practical examples and real-world insights.</p>\n<h2 id='1'>Highlights</h2>\n<ul>\n<li>In-depth analysis with relevant data.</li>\n<li>Expert opinions and future outlook.</li>\n</ul>"
+    }
+  ]
+}
