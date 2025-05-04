@@ -2,7 +2,7 @@
 
 # Step 1: Clone the Repository
 
-git clone 'git@github.com:yoursmayoor/CopilotAssigment.git'
+git clone git@github.com:yoursmayoor/CopilotAssignment.git
 
 cd CopilotAssignment
 
